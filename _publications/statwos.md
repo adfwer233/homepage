@@ -6,9 +6,9 @@ permalink: /publication/reswos
 excerpt: Use statistical weighting in WoS solvers to reduce variance and correlation artifacts.
 date: 2025-11-01
 venue: 'SIGGRAPH Asia 2025 Conference Proceeding'
-slidesurl: # 'https://academicpages.github.io/files/slides1.pdf'
+slidesurl: # 'https://baoanchang.com/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2510.25152'
-bibtexurl: # 'https://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: # 'https://baoanchang.com/files/bibtex1.bib'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 

@@ -6,9 +6,9 @@ permalink: /publication/wntrim
 excerpt: Fast winding number for parametric curves, periodicity generalization and application in CAD systems.
 date: 2025-11-01
 venue: 'Arxiv preprint'
-slidesurl: # 'https://academicpages.github.io/files/slides1.pdf'
+slidesurl: # 'https://baoanchang.com/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2510.25159'
-bibtexurl: # 'https://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: # 'https://baoanchang.com/files/bibtex1.bib'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
