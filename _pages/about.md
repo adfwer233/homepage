@@ -11,7 +11,19 @@ I'm **Bao Anchang**, PhD Student in [School of software, Tsinghua University](ht
 
 I received my Bachelor’s Degree in Software Engineering from [School of software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/), complemented by a minor in Pure and Applied Mathematics from [Department of Mathematical Sciences, Tsinghua University](https://math.tsinghua.edu.cn/).
 
+---
+
+Recent News:
+======
+
+**[2025.12] Presentation at SIGGRAPH Asia 2025**
+
+I'm excited to share that my research on "Off-Centered WoS-Type Solvers with Statistical Weighting" will be presented at SIGGRAPH Asia 2025. Join my talk on Wednesday, December 17. [View Project Page](https://www.baoanchang.com/publication/reswos).
+
+---
+
 Contact
 ======
 - Email: baoanchang02@gmail.com
 
+---
