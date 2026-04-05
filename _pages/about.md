@@ -16,6 +16,10 @@ I received my Bachelor’s Degree in Software Engineering from [School of softwa
 Recent News:
 ======
 
+**[2026.4] SIGGRAPH 2026**
+
+Our paper *Monte Carlo PDE Solvers for Nonlinear Radiative Boundary Conditions* is conditionally accepted by SIGGRAPH 2026 Journal track. Stay tuned for more details.
+
 **[2025.12] Presentation at SIGGRAPH Asia 2025**
 
 I'm excited to share that my research on "Off-Centered WoS-Type Solvers with Statistical Weighting" will be presented at SIGGRAPH Asia 2025. Join my talk on Wednesday, December 17. [View Project Page](https://www.baoanchang.com/publication/reswos).
